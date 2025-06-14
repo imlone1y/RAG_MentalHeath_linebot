@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "form-data": "^4.0.1",
+    "google-auth-library": "^9.15.0",
+    "google-spreadsheet": "^4.1.4"
+  }
+}
