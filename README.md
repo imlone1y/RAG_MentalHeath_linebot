@@ -1,5 +1,7 @@
 # Psychological Counseling Chatbot
 
+[繁體中文](README_TW.md)| English
+
 This project is a senior capstone project for the Department of Computer Science and Information Engineering, National Dong Hwa University, Academic Year 113.
 
 ## Project Preface
