@@ -34,3 +34,12 @@
 ├── prompt.py                                             # 諮商機器人 prompt
 └── template_message.py                                   # linebot 氣泡訊息格式
 ```
+
+## 系統架構
+<img width="572" height="514" alt="截圖 2025-07-17 下午6 37 19" src="https://github.com/user-attachments/assets/4b2dcf0b-17ee-4760-bac7-77a1660989f3" />
+
+## 使用流程
+<img width="1113" height="223" alt="截圖 2025-07-17 下午6 38 45" src="https://github.com/user-attachments/assets/266320d5-f54e-4376-b4a6-a910d83d752f" />
+
+
+
