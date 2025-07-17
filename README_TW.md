@@ -32,5 +32,5 @@
 ├── package-lock.json
 ├── package.json
 ├── prompt.py                                             # 諮商機器人 prompt
-├── template_message.py                                   # linebot 氣泡訊息格式
+└── template_message.py                                   # linebot 氣泡訊息格式
 ```
